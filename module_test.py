@@ -1,0 +1,2 @@
+def pizza():
+	print("Pizza!")
